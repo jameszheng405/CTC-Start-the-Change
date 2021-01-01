@@ -27,4 +27,8 @@ body {
 .squares {
   border: none;
   font-size: 5rem;
+  background: white;
+  color: black;
+  outline: none;
+  cursor: pointer;
 }
